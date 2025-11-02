@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Haytam+Talbi;I'm+a+Full+Stack+Developer+🚀;MERN+Stack+and+Laravel+Enthusiast;Always+learning+new+tech!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Haytam+Talbi;I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate developer from Agadir, Morocco 🇲🇦</h3>
 
