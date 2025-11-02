@@ -18,7 +18,7 @@
 - 📫 Reach me at **talbi20h@gmail.com**  
 
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="230" alt="Hacker Coding GIF"/>
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" height="230" alt="Hacker Coding GIF"/>
 
 ---
 
