@@ -65,12 +65,12 @@ Building a comprehensive CRM & Marketing solution with modern tech stack
 </td>
 <td width="50%">
 
-### 💻 Freelance Development
-Delivering quality solutions for global clients
-- **Platform:** Fiverr
-- **Services:** Full Stack Development
-- **Specialization:** Web Applications
-- **Approach:** Client-Focused Solutions
+### ⚡ Energy Solutions Platform
+A web platform for photovoltaic panels and heat pumps in Suisse romande
+- **Team:** Collaborative project with Imane
+- **Features:** Quote comparison, subsidy calculators, provider verification
+- **Impact:** Helping users make informed energy decisions
+- **Region:** Switzerland (Suisse romande)
 
 </td>
 </tr>
@@ -149,7 +149,7 @@ Delivering quality solutions for global clients
 
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=20" width="100%"/>
 
