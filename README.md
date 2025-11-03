@@ -63,10 +63,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haytam20&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
----
 
-//## 🐍 Contribution Snake
+
 <!-- <div align="center">
+🐍 Contribution Snake
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
