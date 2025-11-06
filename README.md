@@ -124,7 +124,7 @@ A web platform for photovoltaic panels and heat pumps in Suisse romande
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haytam20&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="90%"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=haytam20&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" width="90%"/> -->
 </div>
 
 ---
